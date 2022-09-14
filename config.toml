@@ -13,6 +13,7 @@ description = "Sergei Kimmel's contacts and references."
   links = [
     { linkedin = "https://linkedin.com/in/sergei-kimmel" },
     { google = "mailto:kimmel.serj@gmail.com" },
+    { facebook = "https://www.facebook.com/kimmel.serj" },
     { github = "https://github.com/kimmelserj" },
     { telegram = "https://t.me/kimmelserj" },
   ]
