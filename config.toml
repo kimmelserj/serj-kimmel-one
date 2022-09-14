@@ -9,7 +9,7 @@ description = "Sergei Kimmel's contacts and references."
 [author]
   name = 'Sergei Kimmel'
   headline = 'Golang/PHP Backend Software Developer'
-  image = 'https://www.gravatar.com/avatar/16bf0391baa24f62503f3d1bc8ea0682.png?s=288'
+  image = 'avatar.png'
   links = [
     { linkedin = "https://linkedin.com/in/sergei-kimmel" },
     { google = "mailto:kimmel.serj@gmail.com" },
