@@ -8,7 +8,7 @@ description = "Sergei Kimmel's contacts and references."
 
 [author]
   name = 'Sergei Kimmel'
-  headline = 'Golang/PHP Backend Software Developer'
+  headline = 'Golang/PHP Software Developer'
   image = 'avatar.png'
   links = [
     { linkedin = "https://linkedin.com/in/sergei-kimmel" },
