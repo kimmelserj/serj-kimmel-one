@@ -1,6 +1,7 @@
 baseURL = 'https://serj-kimmel-one.netlify.app'
 languageCode = 'en-us'
 title = 'Sergei Kimmel'
+description = 'Sergei Kimmel's contacts and references.'
 theme = 'lynx'
 
 [author]
