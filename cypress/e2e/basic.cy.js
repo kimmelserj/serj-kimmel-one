@@ -8,7 +8,7 @@ describe('empty spec', () => {
   })
   it('displays the my experience', () => {
     cy.get('h2')
-    .contains('Golang/PHP Backend Software Developer');
+    .contains('Golang/PHP Software Developer');
   })
   it('renders the image', () => {
     cy.get('img')
