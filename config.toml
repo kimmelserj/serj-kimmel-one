@@ -1,4 +1,16 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://serj-kimmel-one.netlify.app'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+title = 'Sergei Kimmel'
+theme = 'lynx'
+
+[author]
+  name = 'Sergei Kimmel'
+  headline = 'Golang/PHP Backend Software Developer'
+  image = 'https://www.gravatar.com/avatar/16bf0391baa24f62503f3d1bc8ea0682.png?s=144'
+  links = [
+    { linkedin = "https://linkedin.com/in/sergei-kimmel" },
+    { google = "mailto:kimmel.serj@gmail.com" },
+    { github = "https://github.com/kimmelserj" },
+    { telegram = "telegram:@kimmelserj" },
+  ]
+

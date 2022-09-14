@@ -2,9 +2,13 @@ describe('empty spec', () => {
   beforeEach(() => {
     cy.visit('/')
   })
-  it('displays the resources text', () => {
+  it('displays the my full name', () => {
+    cy.get('h1')
+    .contains('Sergei Kimmel');
+  })
+  it('displays the my experience', () => {
     cy.get('h2')
-    .contains('This is a bare-bones Hugo project that has everything you need to quickly deploy it to Netlify');
+    .contains('Golang/PHP Backend Software Developer');
   })
   it('renders the image', () => {
     cy.get('img')
